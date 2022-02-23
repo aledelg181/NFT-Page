@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAdaa1DD6555D01368609DdefDF02f040674c1405",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xAdaa1DD6555D01368609DdefDF02f040674c1405",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 1
+  },
+  "NFT_NAME": "Rana Collection",
+  "SYMBOL": "RC",
+  "MAX_SUPPLY": 1,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/zombielightning",
+  "SHOW_BACKGROUND": true
+}
